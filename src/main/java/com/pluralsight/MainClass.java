@@ -1,6 +1,6 @@
 package com.pluralsight;
 
-public class Test {
+public class MainClass {
     public static void main(String[] args) {
 
     }
